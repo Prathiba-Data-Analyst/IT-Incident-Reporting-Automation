@@ -54,3 +54,20 @@ The Python script generates an Excel workbook containing:
 Successfully demonstrated the conversion of a repetitive manual Excel reporting workflow into a Python-based automated reporting process.
 
 The project highlights practical skills in data manipulation, operational reporting, data analysis, and Excel automation.
+
+
+## Project Structure
+
+IT-Incident-Reporting-Automation
+│
+├── Open_Incident_Raw_Data.csv
+│   └── Synthetic raw incident dataset
+│
+├── Excel_Automation_Python_.ipynb
+│   └── Python automation code
+│
+├── Open_Incident_2026-10-28.xlsx
+│   └── Final automated Excel report
+│
+└── README.md
+    └── Project documentation
